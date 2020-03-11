@@ -1,7 +1,6 @@
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-//Establishing Connection
 public final class ConnectionProvider {
 	private static Connection con = null;
 	
